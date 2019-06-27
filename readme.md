@@ -1,5 +1,7 @@
-[docker.logs.md](https://github.com/JulienBe/airship-in-a-bottle-testing/blob/master/docker.logs.md] are the logs from the running containers after the script finished
+[docker.logs.md](https://github.com/JulienBe/airship-in-a-bottle-testing/blob/master/docker.logs.md) are the logs from the running containers after the script finished
+
 [1logs.md](https://github.com/JulienBe/airship-in-a-bottle-testing/blob/master/1logs.md) are the logs from the standard ouput of the aiab script
+
 [2logs.md](https://github.com/JulienBe/airship-in-a-bottle-testing/blob/master/2logs.md) are the other logs from of the aiab script
 
 System info, on a fresh 1604 installed as recommended :
